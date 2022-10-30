@@ -1,4 +1,4 @@
-# Java_Basic_Problem
+<h1 align="center">Java_Basic_Problem</h1>
 
 ## :black_square_button: Question
 
